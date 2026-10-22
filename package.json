@@ -39,24 +39,24 @@
     "LICENSE"
   ],
   "dependencies": {
-    "@google-cloud/secret-manager": "^5.0.0",
-    "commander": "^12.0.0",
-    "inquirer": "^9.2.0",
-    "chalk": "^5.3.0",
-    "ora": "^8.0.0",
-    "yaml": "^2.3.0",
-    "dotenv": "^16.3.0",
-    "fs-extra": "^11.2.0"
+    "@google-cloud/secret-manager": "^5.6.0",
+    "chalk": "^5.6.2",
+    "commander": "^12.1.0",
+    "dotenv": "^16.6.1",
+    "fs-extra": "^11.4.1",
+    "inquirer": "^9.3.8",
+    "ora": "^8.2.0",
+    "yaml": "^2.9.1"
   },
   "devDependencies": {
-    "@types/node": "^20.0.0",
-    "@types/inquirer": "^9.0.0",
-    "@types/fs-extra": "^11.0.0",
-    "typescript": "^5.0.0",
-    "tsx": "^4.0.0",
-    "eslint": "^8.0.0",
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^6.0.0"
+    "@types/fs-extra": "^11.0.4",
+    "@types/inquirer": "^9.0.10",
+    "@types/node": "^20.19.43",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "eslint": "^8.57.1",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
   },
   "engines": {
     "node": ">=18.0.0"
